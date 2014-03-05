@@ -1,0 +1,6 @@
+c:\users\s.granet\documents\visual studio 2013\Projects\CompositePatternHeadFirst\CompositePatternHeadFirst\bin\Debug\CompositePatternHeadFirst.exe.config
+c:\users\s.granet\documents\visual studio 2013\Projects\CompositePatternHeadFirst\CompositePatternHeadFirst\bin\Debug\CompositePatternHeadFirst.exe
+c:\users\s.granet\documents\visual studio 2013\Projects\CompositePatternHeadFirst\CompositePatternHeadFirst\bin\Debug\CompositePatternHeadFirst.pdb
+c:\users\s.granet\documents\visual studio 2013\Projects\CompositePatternHeadFirst\CompositePatternHeadFirst\obj\Debug\CompositePatternHeadFirst.csprojResolveAssemblyReference.cache
+c:\users\s.granet\documents\visual studio 2013\Projects\CompositePatternHeadFirst\CompositePatternHeadFirst\obj\Debug\CompositePatternHeadFirst.exe
+c:\users\s.granet\documents\visual studio 2013\Projects\CompositePatternHeadFirst\CompositePatternHeadFirst\obj\Debug\CompositePatternHeadFirst.pdb
