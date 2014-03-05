@@ -59,6 +59,8 @@ namespace CompositePatternHeadFirst
          var waitress = new Waitress(rootMenu);
          waitress.PrintMenu();
 
+
+         //this should only be on foobar
          Console.ReadLine();
 
       }
