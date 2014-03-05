@@ -30,10 +30,20 @@ namespace CompositePatternHeadFirst
          saladMenu.Add(chefSalad);
          saladMenu.Add(gardenSalad);
 
+         // Create ice cream menu
+         var iceCreamMenu = new Menu("Ice cream", "Delicious ice cream");
+         var chocolateIceCream = new MenuItem("Chocoate", "MMMM chocoate", true, 2.00);
+         var vanillaIceCream = new MenuItem("Vanilla", "MMMM vanilla", true, 3.00);
+
+         // Add ice cream to ice cream menu
+         iceCreamMenu.Add(chocolateIceCream);
+         iceCreamMenu.Add(vanillaIceCream);
+
          // Create a root menu
          var rootMenu = new Menu("Root", "Holds other menus");
          rootMenu.Add(pizzaMenu);
          rootMenu.Add(saladMenu);
+         rootMenu.Add(iceCreamMenu);
 
          // Send the root menu to the waitress 
          var waitress = new Waitress(rootMenu);
@@ -44,3 +54,5 @@ namespace CompositePatternHeadFirst
       }
    }
 }
+
+
