@@ -63,6 +63,7 @@ namespace CompositePatternHeadFirst
          //this should only be on foobar
          Console.ReadLine();
 
+<<<<<<< HEAD
          
 
          // MASTER PAGE
@@ -71,6 +72,14 @@ namespace CompositePatternHeadFirst
          // Lets make masters commit history a little longer, and even a bit longer....
 
          // this isn't working...
+=======
+         // what does the network graph look like after a merge
+
+
+         // MOAR STUFFS
+
+         // why isn't the network graph updating for additional commits?
+>>>>>>> foobar
       }
    }
 }
