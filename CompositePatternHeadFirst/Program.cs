@@ -60,7 +60,7 @@ namespace CompositePatternHeadFirst
          waitress.PrintMenu();
 
 
-         //this should only be on foobar
+         //this should only be on foobar, changing text
          Console.ReadLine();
 
 
