@@ -64,6 +64,9 @@ namespace CompositePatternHeadFirst
          Console.ReadLine();
 
          // what does the network graph look like after a merge
+
+
+         // MOAR STUFFS
       }
    }
 }
