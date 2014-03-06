@@ -52,7 +52,7 @@ namespace CompositePatternHeadFirst
          var rootMenu = new Menu("Root", "Holds other menus");
          rootMenu.Add(pizzaMenu);
          rootMenu.Add(saladMenu);
-        // rootMenu.Add(iceCreamMenu);
+        // rootMenu.Add(iceCreamMenu);  // lets make some changes
          //rootMenu.Add(steakMenu);
 
          // Send the root menu to the waitress 
