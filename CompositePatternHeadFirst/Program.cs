@@ -63,6 +63,10 @@ namespace CompositePatternHeadFirst
          //this should only be on foobar
          Console.ReadLine();
 
+         
+
+         // MASTER PAGE
+
       }
    }
 }
