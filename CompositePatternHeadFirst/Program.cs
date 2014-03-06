@@ -63,6 +63,7 @@ namespace CompositePatternHeadFirst
          //this should only be on foobar
          Console.ReadLine();
 
+         // what does the network graph look like after a merge
       }
    }
 }
