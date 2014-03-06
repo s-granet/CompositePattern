@@ -42,7 +42,7 @@ namespace CompositePatternHeadFirst
          // Create steak menu
          var steakMenu = new Menu("Steak Menu", "Delicious, delicious steak");
          var tboneSteak = new MenuItem("T-Bone", "big, but mediocre tase", false, 44.00);
-         var serloindSteak = new MenuItem("Serloin", "I dont know if i spelled the name correctly", false, 33.00);
+         var serloindSteak = new MenuItem("Serloin", "I dont know if i spelled the name correctly", false, 33.00); //idk
 
          // Add steaks to steak menu
          steakMenu.Add(tboneSteak);
