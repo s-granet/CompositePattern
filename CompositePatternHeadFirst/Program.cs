@@ -68,7 +68,7 @@ namespace CompositePatternHeadFirst
          // MASTER PAGE
 
 
-         // Lets make masters commit history a little longer
+         // Lets make masters commit history a little longer, and even a bit longer....
       }
    }
 }
