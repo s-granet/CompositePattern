@@ -67,6 +67,8 @@ namespace CompositePatternHeadFirst
 
 
          // MOAR STUFFS
+
+         // why isn't the network graph updating for additional commits?
       }
    }
 }
